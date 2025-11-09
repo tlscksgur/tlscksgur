@@ -2,5 +2,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tlscksgur&label=VISITORS&color=blue&style=flat)
 ## 🛠 Tech Stack
 <div style="display: flex; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,java,spring,python,mysql,firebase,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,,vue,java,mysql,github,vscode" />
 </div>
