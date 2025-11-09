@@ -3,3 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=nightowl)](https://github.com/tlscksgur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=radical)](https://github.com/tlscksgur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=rose_pine)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/tlscksgur)
