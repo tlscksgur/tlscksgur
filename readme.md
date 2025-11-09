@@ -4,3 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=radical)](https://github.com/tlscksgur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=rose_pine)](https://github.com/tlscksgur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&show_icons=true&bg_color=30,1a1b27,4c1d95&title_color=c084fc&text_color=ffffff&hide_border=true)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&show_icons=true&bg_color=30,fff1eb,ace0f9&title_color=ff7eb9&text_color=5a4f7c&hide_border=true)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&show_icons=true&bg_color=1a1b27&title_color=8be9fd&text_color=ffffff&border_color=3b4252)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&show_icons=true&bg_color=00000000&title_color=8be9fd&text_color=ffffff&border_color=8be9fd)](https://github.com/tlscksgur)
