@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-rouge-theta.vercel.app/api/top-langs/?username=tlscksgur&count_private=true&layout=compact&theme=tokyonight)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&theme=tokyonight)](https://github.com/tlscksgur)
