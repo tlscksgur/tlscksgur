@@ -4,3 +4,8 @@
 <div style="display: flex; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,mysql,github,vscode" />
 </div>
+## 📊 GitHub Stats
+<div>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=tlscksgur&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&count_private=true&theme=tokyonight" />
+</div>
