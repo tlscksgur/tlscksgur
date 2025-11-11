@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlscksgur&layout=compact&show_icons=true&bg_color=90,85f4ff,ace0f9,cbc1ff,ffc8f1&title_color,8b67ff&text_color,4b4866&hide_border=true)](https://github.com/tlscksgur)
+[![Top Langs](https://github-readme-stats-rouge-theta.vercel.app/api/top-langs/?username=tlscksgur&count_private=true&include_private=true&layout=compact&show_icons=true&bg_color=90,85f4ff,ace0f9,cbc1ff,ffc8f1&title_color=8b67ff&text_color=4b4866&hide_border=true)](https://github.com/tlscksgur)
